@@ -12,23 +12,19 @@ Librerías utilazadas:
 - stats de scipy : el módulo stats de la librería SciPy.
 - seaborn : la librería Seaborn para realizar unos gráficos
 - sns.set_theme() :  librería para tener mejores gráficos
-train_test_split de sklearn.model_selection : la función train_test_split de la biblioteca scikit-learn
-DecisionTreeClassifier de sklearn : importamos la clase DecisionTreeClassifier
-RandomForestClassifier de sklearn : importamos la clase RandomForestClassifier 
-accuracy_score de sklearn.metrics : importamos la función accuracy_score de la biblioteca scikit-learn
+- train_test_split de sklearn.model_selection : la función train_test_split de la biblioteca scikit-learn
+- DecisionTreeClassifier de sklearn : importamos la clase DecisionTreeClassifier
+- RandomForestClassifier de sklearn : importamos la clase RandomForestClassifier 
+- accuracy_score de sklearn.metrics : importamos la función accuracy_score de la biblioteca scikit-learn
 
 Este proyecto nos ha permitido explorar y comprender el proceso de desarrollo de modelos de aprendizaje automático, desde la exploración de datos hasta la evaluación y selección de modelos.
 
 Habilidades Relacionadas a Ciencia de Datos Desarrolladas
 
-Análisis Exploratorio de Datos (EDA): Capacidad para explorar y visualizar datos para obtener información valiosa.
-
-Preprocesamiento de Datos: Técnicas para limpiar, normalizar y preparar datos para el análisis.
-
-Implementación de Modelos de Machine Learning: Habilidad para aplicar algoritmos de ML supervisado y no supervisado.
-
-Evaluación de Modelos: Capacidad para evaluar y comparar el rendimiento de diferentes modelos.
-
-Visualización de Datos: Uso de herramientas de visualización para interpretar y comunicar resultados.
+  - Análisis Exploratorio de Datos (EDA): Capacidad para explorar y visualizar datos para obtener información valiosa.
+  - Preprocesamiento de Datos: Técnicas para limpiar, normalizar y preparar datos para el análisis.
+  - Implementación de Modelos de Machine Learning: Habilidad para aplicar algoritmos de ML supervisado y no supervisado.
+  - Evaluación de Modelos: Capacidad para evaluar y comparar el rendimiento de diferentes modelos.
+  - Visualización de Datos: Uso de herramientas de visualización para interpretar y comunicar resultados.
 
 
