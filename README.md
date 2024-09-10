@@ -22,8 +22,13 @@ Este proyecto nos ha permitido explorar y comprender el proceso de desarrollo de
 Habilidades Relacionadas a Ciencia de Datos Desarrolladas
 
 Análisis Exploratorio de Datos (EDA): Capacidad para explorar y visualizar datos para obtener información valiosa.
+
 Preprocesamiento de Datos: Técnicas para limpiar, normalizar y preparar datos para el análisis.
+
 Implementación de Modelos de Machine Learning: Habilidad para aplicar algoritmos de ML supervisado y no supervisado.
+
 Evaluación de Modelos: Capacidad para evaluar y comparar el rendimiento de diferentes modelos.
+
 Visualización de Datos: Uso de herramientas de visualización para interpretar y comunicar resultados.
-Modelos Utilizados
+
+
